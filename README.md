@@ -11,9 +11,9 @@ An informal journal club exploring mathematics, physics, machine learning, and A
 
 ## Taking part
 
-Suggest a paper or question in the paper queue, volunteer to lead a discussion, or add to the meeting notes. Suggestions can be brief: a link and a sentence about why it interests you are enough.
+Suggest a paper, volunteer to lead a discussion, or add to the meeting notes. Suggestions can be brief: a link and a sentence about why it interests you are enough.
 
-Meetings can begin with short pitches for papers, talks, research questions, or other material, followed by the main discussion. Confirmed dates, times, and locations belong in the schedule.
+Meetings are meant to be informal. We will read / skim the papers in real time and discuss results and figures.
 
 ## Editing on GitHub
 
@@ -28,6 +28,4 @@ Refresh the page before starting an edit so you have the latest version. If GitH
 
 ## Adding meeting notes
 
-Copy the text from the [meeting template](meetings/template.md). From the repository's main page, choose **Add file → Create new file**, name it `meetings/YYYY-MM-DD.md` using the meeting date, and paste in the template. Fill in the useful sections and save to `main`. Add a link to the notes in the schedule.
-
-Before a meeting, choose a topic from the paper queue and update the schedule. Afterwards, add notes, mark discussed papers, and save useful links in the resource list.
+From the repository's main page, choose **Add file → Create new file**, name it `meetings/YYYY-MM-DD.md` using the meeting date, and paste in the template. Fill in the useful sections and save to `main`. Add a link to the notes in the schedule.

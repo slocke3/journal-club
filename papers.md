@@ -2,7 +2,7 @@
 
 [Home](README.md)
 
-Add a paper, talk, blog post, or research question. A link and a sentence about why it would make a good discussion are enough. Add your name if you would like to introduce it.
+Add a paper, talk, blog post, or research question. A link and a sentence about why it would make a good discussion would suffice.
 
 ## To discuss
 

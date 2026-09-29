@@ -2,11 +2,9 @@
 
 [Home](README.md)
 
-Confirmed meetings go here. Include the timezone with every meeting time. Use email or a scheduling poll to agree on dates, then record the final details here.
+Confirmed meetings go here. Per the previous When2meet, we will have Journal Club every Wednesday morning at 10am unless otherwise noted. 
 
 ## Upcoming meetings
-
-No meetings have been confirmed in this archive yet.
 
 | Date | Time and timezone | Topic / paper | Discussion lead | Location / meeting link | Notes |
 | --- | --- | --- | --- | --- | --- |
