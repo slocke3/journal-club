@@ -2,11 +2,11 @@
 
 [Home](README.md)
 
-Confirmed meetings go here. Per the previous When2meet, we will have Journal Club every Wednesday morning at 10am unless otherwise noted. 
+Journal Club will meet every Wednesday morning at 10am unless otherwise noted. 
 
 ## Upcoming meetings
 
-| Date | Time | Topic | Paper | Discussion lead | Notes |
+| Date | Time | Topic | Paper(s) | Discussion lead | Notes |
 | --- | --- | --- | --- | --- | --- |
 | Wednesday, September 30th, 2026 | 10:00am EST | --- | --- | --- | --- |
 | Wednesday, October 7th, 2026 | 10:00am EST | --- | --- | --- | --- |
@@ -32,5 +32,5 @@ Confirmed meetings go here. Per the previous When2meet, we will have Journal Clu
 
 Move completed meetings here, with the newest first, and link to their notes.
 
-| Date | Topic | paper | Discussion lead | Notes |
+| Date | Topic | Paper(s) | Discussion lead | Notes |
 | Wednesday, September 14th, 2026 | 10:00am EST | Show & Tell | NA | NA | --- |

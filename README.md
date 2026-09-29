@@ -28,4 +28,6 @@ Refresh the page before starting an edit so you have the latest version. If GitH
 
 ## Adding meeting notes
 
-From the repository's main page, choose **Add file → Create new file**, name it `meetings/YYYY-MM-DD.md` using the meeting date, and paste in the template. Fill in the useful sections and save to `main`. Add a link to the notes in the schedule.
+After each meeting, review and edit the AI-generated notes or transcript, then save them in `meetings/` using the meeting date as the filename (for example, `YYYY-MM-DD.md` or `YYYY-MM-DD.pdf`). Add a link to the file in the [schedule](schedule.md).
+
+To upload an existing file on GitHub, open the `meetings/` folder and choose **Add file → Upload files**. To paste text directly, choose **Add file → Create new file**, name it `YYYY-MM-DD.md`, and paste your edited notes. Save the changes to `main`.
