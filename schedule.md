@@ -6,8 +6,10 @@ Confirmed meetings go here. Per the previous When2meet, we will have Journal Clu
 
 ## Upcoming meetings
 
-| Date | Time and timezone | Topic / paper | Discussion lead | Location / meeting link | Notes |
+| Date | Time | Topic | Paper | Discussion lead | Notes |
 | --- | --- | --- | --- | --- | --- |
+| Wednesday, September 30th, 2026 | 10:00am EST | --- | --- | --- | --- |
+
 
 <!-- Example row format; replace every placeholder before adding a real meeting:
 | YYYY-MM-DD | HH:MM–HH:MM, timezone | Topic or paper link | Name | Room or meeting link | [Notes](meetings/YYYY-MM-DD.md) |
@@ -17,5 +19,5 @@ Confirmed meetings go here. Per the previous When2meet, we will have Journal Clu
 
 Move completed meetings here, with the newest first, and link to their notes.
 
-| Date | Topic / paper | Discussion lead | Notes |
+| Date | Topic | paper | Discussion lead | Notes |
 | --- | --- | --- | --- |
