@@ -8,7 +8,7 @@ Journal Club will meet every Wednesday morning at 10am unless otherwise noted.
 
 | Date | Time | Topic | Paper(s) | Discussion lead | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Wednesday, September 30th, 2026 | 10:00am EST | --- | --- | --- | --- |
+| Wednesday, September 30th, 2026 | 10:00am EST | Synthetic Data | https://arxiv.org/pdf/2601.18778, https://arxiv.org/pdf/2609.30063 | Lindsay & Simon | --- |
 | Wednesday, October 7th, 2026 | 10:00am EST | --- | --- | --- | --- |
 | Wednesday, October 14th, 2026 | 10:00am EST | --- | --- | --- | --- |
 | Wednesday, October 21st, 2026 | 10:00am EST | --- | --- | --- | --- |
@@ -33,4 +33,8 @@ Journal Club will meet every Wednesday morning at 10am unless otherwise noted.
 Move completed meetings here, with the newest first, and link to their notes.
 
 | Date | Topic | Paper(s) | Discussion lead | Notes |
-| Wednesday, September 14th, 2026 | 10:00am EST | Show & Tell | NA | NA | --- |
+| --- | --- | --- | --- | --- |
+
+| Wednesday, September 14th, 2026 | 10:00am EST | Show & Tell | NA | NA |
+| --- | --- | --- | --- | --- | --- |
+
