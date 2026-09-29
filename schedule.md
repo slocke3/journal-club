@@ -2,7 +2,7 @@
 
 [Home](README.md)
 
-Journal Club will meet every Wednesday morning at 10am unless otherwise noted. 
+Journal Club will meet every Wednesday morning at 10am EST unless otherwise noted. 
 
 ## Upcoming meetings
 
@@ -30,11 +30,13 @@ Journal Club will meet every Wednesday morning at 10am unless otherwise noted.
 
 ## Past meetings
 
-Move completed meetings here, with the newest first, and link to their notes.
+<!-- Move completed meetings here, with the newest first, and link to their notes.
 
 | Date | Topic | Paper(s) | Discussion lead | Notes |
 | --- | --- | --- | --- | --- |
 
 | Wednesday, September 14th, 2026 | 10:00am EST | Show & Tell | NA | NA |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | 
+
+-->
 
